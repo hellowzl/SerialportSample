@@ -1,39 +1,9 @@
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.read.1.tlog
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.write.1.tlog
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
-D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
-C:\Documents and Settings\Administrator\桌面\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-C:\Documents and Settings\Administrator\桌面\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\wuyazhe\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.write.1.tlog
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csprojResolveAssemblyReference.cache
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
-E:\公司项目\Z 中核\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.GenerateResource.Cache
-E:\总结内容\20170511-中核九院\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-E:\总结内容\20170511-中核九院\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csprojAssemblyReference.cache
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.GenerateResource.cache
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.CoreCompileInputs.cache
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-E:\3-江苏泗洪\branches\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csprojAssemblyReference.cache
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.GenerateResource.cache
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.CoreCompileInputs.cache
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
+C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
