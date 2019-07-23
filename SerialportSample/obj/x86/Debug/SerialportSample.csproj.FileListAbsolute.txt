@@ -1,9 +1,0 @@
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csprojAssemblyReference.cache
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.GenerateResource.cache
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.CoreCompileInputs.cache
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
-C:\Users\wzl.HTRFID\source\repos\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
